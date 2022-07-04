@@ -1,18 +1,36 @@
-## Getting Started
+## Primer Proyecto en Java usando Intellij
+Realice un proyecto de java en Intellij IDE en donde se reciba por consola la siguiente información:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Nombre de usuario
 
-## Folder Structure
+- Celular
 
-The workspace contains two folders by default, where:
+- Edad
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+El sistema debe imprimir el siguiente mensaje:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+Bienvenido señor (Nombre de usuario), es un placer para nosotros contar con una persona de (Edad) años.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Próximamente nos comunicaremos con usted al numero (Celular).
+
+Feliz día
+
+
+
+Ejemple:
+
+- Nombre de usuario: Oscar Lopera
+
+- Celular: 3056984587
+
+- Edad: 29
+
+
+
+Bienvenido señor Oscar Lopera, es un placer para nosotros contar con una persona de 29 años.
+
+Próximamente nos comunicaremos con usted al numero 3056984587.
+
+Feliz día
